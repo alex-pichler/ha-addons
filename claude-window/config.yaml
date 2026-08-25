@@ -1,6 +1,6 @@
 ---
 name: Claude Window Keeper
-version: "0.1.0"
+version: "0.1.1"
 slug: claude_window
 description: >-
   Pings Claude on a rolling schedule so a subscription usage window is always open.
